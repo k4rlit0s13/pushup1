@@ -16,3 +16,6 @@ entrar al ejercicio multiplicacionRusa y dar ejecutar, en la parte superior dere
 
 ## Votaciones segun las universidades:
 entrar al ejercicio universidad y dar ejecutar, en la parte superior derecha
+
+## solucion de errores por dia y diferencia de trabajo:
+entrar al ejercicio solucionErrores y dar ejecutar, en la parte superior derecha
