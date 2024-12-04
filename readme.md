@@ -11,3 +11,8 @@ entrar al ejercicio 2 y dar ejecutar, en la parte superior derecha
 ## Ingrese un número para calcular la cantidad de numeros que desea mostrar:
 entrar al ejercicio 3 y dar ejecutar, en la parte superior derecha
 
+## Multiplicacion Rusa:
+entrar al ejercicio multiplicacionRusa y dar ejecutar, en la parte superior derecha
+
+## Votaciones segun las universidades:
+entrar al ejercicio universidad y dar ejecutar, en la parte superior derecha
